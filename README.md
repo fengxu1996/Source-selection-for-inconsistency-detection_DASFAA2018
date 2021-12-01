@@ -1,4 +1,4 @@
-# dasfaa2018_paper_experiment
+# Source selection for inconsistency detection dasfaa2018_paper_experiment
 实验代码整理
 《Source selection for inconsistency detection》  CCF B，dasfaa 2018年会议
 ```
