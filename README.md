@@ -1,8 +1,7 @@
 # dasfaa2018_paper_experiment
 实验代码整理
 《Source selection for inconsistency detection》  CCF B，dasfaa 2018年会议
-
-
+```
 @inproceedings{li2018source,
   title={Source selection for inconsistency detection},
   author={Li, Lingli and Feng, Xu and Shao, Hongyu and Li, Jinbao},
@@ -11,3 +10,4 @@
   year={2018},
   organization={Springer}
 }
+```
